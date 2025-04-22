@@ -1,5 +1,6 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
-
+## NAME: KOWSHIK P
+## REG NO: 212224040164
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
