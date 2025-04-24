@@ -1,5 +1,6 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
-
+## Name: Kowshik P
+## Date: 24.04.2025
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -33,18 +34,22 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+![image](https://github.com/user-attachments/assets/444d7f39-827c-49e6-923e-56c3e7a751a9)
 
-Developed by: RegisterNumber:*/
+
+Developed by: RegisterNumber:212224040164
 
 
 **RTL realization**
+![image](https://github.com/user-attachments/assets/7b607d2c-739e-476f-b072-84772bbb14bc)
 
 **Output:**
+![WhatsApp Image 2025-04-24 at 10 55 15_572bc72a](https://github.com/user-attachments/assets/1e301b61-5ed7-4211-bb1c-80a3694c5432)
 
 **RTL**
 
 **Timing Diagram**
+![image](https://github.com/user-attachments/assets/8e7d7662-ddfe-4c83-9fcf-0750aa69be4e)
 
 **Result:**
 
