@@ -53,6 +53,8 @@ Developed by: RegisterNumber:*/
 **RTL**
 ![WhatsApp Image 2025-04-21 at 18 37 59_7e8b7c06](https://github.com/user-attachments/assets/44aac0fa-dabf-414a-a3d0-d51751b7d369)
 ![WhatsApp Image 2025-04-21 at 18 37 59_7e8b7c06](https://github.com/user-attachments/assets/aefdd2bd-0056-45d7-a9f6-02519fc6aa7d)
+![WhatsApp Image 2025-04-24 at 10 55 15_f3a980ca](https://github.com/user-attachments/assets/77e3bbdc-e72e-4217-aed0-dd0388ffdb81)
+
 
 **Timing Diagram**
 
